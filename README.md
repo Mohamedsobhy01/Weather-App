@@ -1,7 +1,6 @@
 # 🌦️ Weather App
 
-A simple **Python + Tkinter** application that displays real-time weather information for any city using the **OpenWeatherMap API**.
-
+🌤️ Weather App is a Python Tkinter GUI app that fetches real-time weather data from OpenWeatherMap. Enter a city to see temperature, humidity, wind speed, pressure, and weather description. An AI-assisted version was also created to improve code efficiency and functionality.
 ---
 
 ## 🚀 Features
