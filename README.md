@@ -12,6 +12,11 @@ A simple **Python + Tkinter** application that displays real-time weather inform
 
 ---
 
+## 🤖 AI-Assisted Improvement
+This project was improved using **ChatGPT assistance**, demonstrating how AI can help optimize code, improve structure, and enhance functionality while keeping readability and maintainability.  
+
+---
+
 ## ⚙️ How to Run
 1. Clone the repo:
    ```bash
